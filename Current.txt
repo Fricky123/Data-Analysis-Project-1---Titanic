@@ -1,0 +1,38 @@
+Currently working on:
+
+1. Titanic_train.csv - dataset about passengers aboard the Titanic ship
+
+
+Showcase 1: Identify overall survival rate of the passengers.
+Showcase 2: survival rate of men vs women
+Showcase 3: To identify survival rate of different wealth class
+Showcase 4: To identify survival rate of passengers traveling as family vs no family
+
+progress: 
+1.removed nulls, dups, and unneeded columns
+2.fixing incorrect formats and/or values (making sure data is consistent/ accurate)
+3. made null 'age' values into median
+4. made a survived vs not survived plotting in pandas
+5. cleaned data again 
+6. learned about .mode(), and applied it for Embarked nulls
+7. uploaded notebook, orig csv, cleaned csv, a readme in a github repo
+8. imported table in sql database
+9. re-plotted showcase 1 with own knowledge
+10. plotted showcase 2 
+11. plotted showcase 3
+
+
+to-do:
+- study SQL and matplotlib again
+- create plotting for showcase 4 in notebook
+- create queries for showcase 2,3,4 in sql workbench
+- create a powerbi vizualize
+
+
+changelog:
+1. removed '- upload updated cleaned csv, and current text' from to do list
+2. removed 'upload sql file' from to-do list
+3. added 'create plotting for showcase 2,3,4 in notebook AND create queries for showcase 2,3,4 in sql workbench'
+4. added '9. re-plotted showcase 1 with own knowledge' in progress.
+5. added '10. plotted showcase 2' in progress list and updated to-do list
+6. added '11. plotted showcase 3' in progress list and updated to-do list
