@@ -1,0 +1,5 @@
+Titanic passenger data:
+
+Survivors:342 
+Dead: 549
+Surival rate: 62.6%
