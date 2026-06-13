@@ -26,18 +26,8 @@ progress:
 15. Replaced original titanic csv file with fresh one from kaggle, due to edits in it.
 
 to-do:
-- fix csv files, re-clean data
-- study SQL and matplotlib again
-- Add ylabel for plot 4
+- study SQL again
+- study creative ways for Pie & Bar charts in matplotlib
 - create queries for showcase 2,3,4 in sql workbench
 - create a powerbi vizualize
 
-
-changelog:
-1. removed '- upload updated cleaned csv, and current text' from to do list
-2. removed 'upload sql file' from to-do list
-3. added 'create plotting for showcase 2,3,4 in notebook AND create queries for showcase 2,3,4 in sql workbench'
-4. added '9. re-plotted showcase 1 with own knowledge' in progress.
-5. added '10. plotted showcase 2' in progress list and updated to-do list
-6. added '11. plotted showcase 3' in progress list and updated to-do list
-7. added '12. plotted showcase 4' in progress list and updated to-do list(added 'Add ylabel for plot 4')
