@@ -21,10 +21,11 @@ progress:
 10. plotted showcase 2 
 11. plotted showcase 3
 12. plotted showcase 4
+13. Re-learn GIT
 
 
 to-do:
-- study SQL and matplotlib again
+- study SQL and matplotlib againgit bran
 - Add ylabel for plot 4
 - create queries for showcase 2,3,4 in sql workbench
 - create a powerbi vizualize
