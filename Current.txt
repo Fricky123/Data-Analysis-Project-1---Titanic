@@ -27,7 +27,8 @@ progress:
 
 to-do:
 - study SQL again
-- study creative ways for Pie & Bar charts in matplotlib
 - create queries for showcase 2,3,4 in sql workbench
-- create a powerbi vizualize
+- fix whatever is wrong with jpy pandas/notebook showcases
+- study creative ways for Pie & Bar charts in matplotlib
+- create a powerbi vizualization
 

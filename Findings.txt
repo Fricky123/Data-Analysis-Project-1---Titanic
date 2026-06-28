@@ -1,5 +1,14 @@
 Titanic passenger data:
 
+
+-- OVERALL SURVIVAL RATE
+Total Passengers: 891
 Survivors:342 
 Dead: 549
-Surival rate: 62.6%
+Surival rate: 38.4%
+
+-- SURVIVAL RATE (MEN vs WOMEN)
+Men: 109 (31.8%)
+Women: 233 (68.1%)
+
+
